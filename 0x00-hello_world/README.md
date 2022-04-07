@@ -6,3 +6,4 @@ this scriptprints out PROGRAMMING IS LIKE A MULTILINGUAL PUZZLE with a new line 
 [master 022d302] this script prints exactly PROGRAMMING IS LIKE BUILDING A MULTILINGUAL PUZZLE with a new line
  1 file changed, 3 insertions(+), 5 deletions(-)
 this script prints exactly WITH PROPER GRAMMAR BUT THE OUTCOME IS A PIECE OF ART with a new line 5
+this is a C program that prints the size of various tpes on the computer it is compiled and run on 6

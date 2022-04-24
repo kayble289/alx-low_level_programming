@@ -14,4 +14,5 @@ void print_times_table(int n);
 int add(int, int);
 void print_to_98(int n);
 char *_strcat(char *dest, char *src);
+char *_strncat(char *dest, char *src, int n);
 #endif

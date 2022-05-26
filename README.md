@@ -1,1 +1,1 @@
-this repository is for singly linked lists
+this is the first deep dive into the waters of C programming

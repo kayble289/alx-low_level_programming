@@ -1,1 +1,1 @@
-this is the first deep dive into the waters of C programming
+this directory is about file descriptors and open, read, write functions

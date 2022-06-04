@@ -1,1 +1,1 @@
-this directory is about file descriptors and open, read, write functions
+this is the C low level programming language repository
